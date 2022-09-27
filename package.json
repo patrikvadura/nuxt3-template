@@ -7,6 +7,7 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
+    "@nuxtjs/google-fonts": "^3.0.0-0",
     "nuxt": "3.0.0-rc.6",
     "pug": "^3.0.2",
     "pug-plain-loader": "^1.1.0",
